@@ -1,0 +1,19 @@
+{
+  "name": "test-git",
+  "version": "1.0.0",
+  "description": "for test branches git",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rusel-arceo/github.git"
+  },
+  "author": "rusel arceo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rusel-arceo/github/issues"
+  },
+  "homepage": "https://github.com/rusel-arceo/github#readme"
+}
